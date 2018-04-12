@@ -1,0 +1,2 @@
+# MaxTemperature
+一个hadoop查询每年最高气温的小demo
